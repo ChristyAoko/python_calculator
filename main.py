@@ -3,7 +3,7 @@ import re
 print("My Interesting Calculator")
 print("Type 'quit' to exit\n")
 
-# Holds the result of the previously calcualted equation
+# Holds the result of the previously calculated equation
 previous = 0
 run = True
 
